@@ -57,6 +57,8 @@
 * https://nova.laravel.com/ - Official admin panel
 * https://github.com/rinvex/laravel-subscriptions - Rinvex Subscriptions is a flexible plans and subscription management system for Laravel,
 * https://github.com/sebdesign/laravel-state-machine - State machine implementation to Laravel
+* https://github.com/dmitry-ivanov/laravel-testing-tools - Laravel Testing Tools
+* https://github.com/php-enqueue/laravel-queue - Laravel Enqueue message queue extension.
 
 ### Javascript
 
