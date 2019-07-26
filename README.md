@@ -80,6 +80,10 @@
 * https://github.com/smartystreets/goconvey - GoConvey is awesome Go testing
 * https://golang.github.io/dep/ - Dependency management for Go
 
+### API Design tools
+* https://studio.restlet.com - Restlet studio
+* https://editor.swagger.io/ - Swagger editor
+
 # Articles
 
 ### Programmnig theory, design patterns etc..
@@ -112,6 +116,7 @@
 * https://www.restapitutorial.com/ - Learn REST: A RESTful Tutorial
 * https://www.restapitutorial.com/lessons/httpmethods.html - Using HTTP Methods for RESTful Services
 * https://www.php-fig.org/psr/ - PHP Standards Recommendations
+* https://github.com/OAI/OpenAPI-Specification - OpenAPI specification
 
 # Videos
 
