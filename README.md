@@ -61,6 +61,7 @@
 #### VueJs
 * https://github.com/mrichar1/jsonapi-vuex - JSONAPI api with a Vuex store
 * https://vuetifyjs.com/en/ - Material Design Component Framework
+* https://vuex-orm.github.io/vuex-orm/ - Vuex ORM
 
 ## Real time services
 * https://pusher.com - Powering realtime experiencis in all your apps
@@ -110,6 +111,10 @@
 
 ### Programming theoury
 * http://verraes.net/2014/09/decoupling-model-framework/ - Presentation on Domain-Driven Design, CRUD, Task-based UI's, Commands, Events, ...
+
+### Testing
+* https://www.youtube.com/watch?v=Q9wSvlmywhI - Jon Acker - TDD is dead, long live TDD - Laracon EU 2016
+
 
 ### PHP
 
