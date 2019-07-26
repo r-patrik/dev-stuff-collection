@@ -102,12 +102,14 @@
 ### GO
 * https://dave.cheney.net/practical-go/presentations/qcon-china.html - Practical Go
 
-### REST
-* https://www.restapitutorial.com/ - Learn REST: A RESTful Tutorial
-* https://www.restapitutorial.com/lessons/httpmethods.html - Using HTTP Methods for RESTful Services
-
 ### Blogs, showcases etc.
 * https://tech.trivago.com/2017/12/19/how-trivago-reduced-memcached-memory-usage-by-50/ - How trivago Reduced Memcached Memory Usage by 50%
+
+### Standards
+* https://jsonapi.org/ - A SPECIFICATION FOR BUILDING APIS IN JSON
+* https://www.restapitutorial.com/ - Learn REST: A RESTful Tutorial
+* https://www.restapitutorial.com/lessons/httpmethods.html - Using HTTP Methods for RESTful Services
+* https://www.php-fig.org/psr/ - PHP Standards Recommendations
 
 # Videos
 
