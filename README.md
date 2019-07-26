@@ -7,7 +7,8 @@
 * http://image.intervention.io - PHP Image Manipulation
 * https://github.com/rexlabsio/enum-php - Enum implementation for php
 * https://github.com/spatie/data-transfer-object - Data transfer objects
-* https://github.com/spatie/phpunit-snapshot-assertions?source=post_page---------------------------
+* https://github.com/spatie/phpunit-snapshot-assertions - Data snapshots for testing
+* https://github.com/php-enqueue/enqueue-dev - Provides a common way for programs to create, send, read messages.
 
 ### Testing
 * https://github.com/kahlan/kahlan - Kahlan is a full-featured Unit & BDD test framework a la RSpec/JSpec
@@ -44,6 +45,13 @@
 * https://github.com/spatie/laravel-honeypot - Honeypot
 * https://github.com/zerodahero/laravel-workflow - Use the Symfony Workflow component in Laravel
 * https://github.com/beyondcode/laravel-dump-server - Dump server
+* https://nova.laravel.com/ - Official admin panel
+
+## Javascript
+
+#### VueJs
+* https://github.com/mrichar1/jsonapi-vuex - JSONAPI api with a Vuex store
+* https://vuetifyjs.com/en/ - Material Design Component Framework
 
 ## Real time services
 * https://pusher.com - Powering realtime experiencis in all your apps
@@ -51,6 +59,8 @@
 ## Docker
 * https://vessel.shippingdocker.com/ - Simple Docker development environments for Laravel.
 * https://laradock.io/ - Laradock is a PHP development environment that runs on Docker.
+* https://github.com/thecodingmachine/kickoff-docker-php/tree/v1.0.3 - Easily setup a PHP project with Docker
+* https://github.com/bitnami/bitnami-docker-laravel - Bitnami Laravel Development Container
 
 ## GO
 * https://github.com/smartystreets/goconvey - GoConvey is awesome Go testing
@@ -58,9 +68,11 @@
 
 # Articles
 
-## Programmnig theory
+## Programmnig theory, design patterns etc..
 * https://symfony.com/doc/current/workflow/introduction.html - Workflow and state machines
 * https://github.com/kamranahmedse/design-patterns-for-humans - Design patterns for humans
+* https://tech.vinelab.com/the-lucid-architecture-concept-ad8e9ed0258f - The Lucid Architecture — Concept
+* http://pmjones.io/adr/ - Action Domain Responder
 
 ## DDD
 * https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html - The Clean Architecture
@@ -70,6 +82,7 @@
 
 ## System designing
 * https://github.com/donnemartin/system-design-primer - Learn how to design large-scale systems. 
+* https://existek.com/blog/web-application-architecture/ - Web application architecture
 
 ## Event sourcing
 * https://kickstarter.engineering/event-sourcing-made-simple-4a2625113224 - Event Sourcing made Simple
@@ -77,13 +90,25 @@
 ## GO
 * https://dave.cheney.net/practical-go/presentations/qcon-china.html - Practical Go
 
+## REST
+* https://www.restapitutorial.com/ - Learn REST: A RESTful Tutorial
+* https://www.restapitutorial.com/lessons/httpmethods.html - Using HTTP Methods for RESTful Services
+
+## Blogs, showcases etc.
+* https://tech.trivago.com/2017/12/19/how-trivago-reduced-memcached-memory-usage-by-50/ - How trivago Reduced Memcached Memory Usage by 50%
+
 # Videos
 
 ## Programming theoury
 * http://verraes.net/2014/09/decoupling-model-framework/ - Presentation on Domain-Driven Design, CRUD, Task-based UI's, Commands, Events, ...
 
 ## PHP
-* https://www.youtube.com/channel/UCOoctvApya3GP9EdCVsq85Q - Emarsys meetups
+
+
+#### Laravel
+* https://laracasts.com/series/laravel-nova-mastery/episodes/1 - Nova course
+* https://www.youtube.com/watch?v=3eyftAR5ilo&list=PL-yJve--iT5oM2LgF37VXsBb8Os4ZulIc - Laracon us 2018
+* https://www.youtube.com/channel/UCb9XEo_1SDNR8Ucpbktrg5A - Laracon EU
 
 ## Go
 * https://www.youtube.com/watch?v=EXrEd1-GZR0 - Practical Go: Real World Advice For Writing Maintainable Go Programs
@@ -106,6 +131,7 @@
 ## Others
 * https://www.youtube.com/channel/UCtxCXg-UvSnTKPOzLH4wJaQ - Tech talks youtube channel
 * https://www.youtube.com/channel/UCn1XnDWhsLS5URXTi5wtFTA - Tech dummies youtube channel
+* https://www.youtube.com/channel/UCOoctvApya3GP9EdCVsq85Q - Emarsys meetups
 
 # Tutorials
 ## GO
@@ -113,6 +139,11 @@
 * https://gophercises.com/
 
 # Courses
+## PHP
+
+#### Laravel
+* https://laracasts.com/series/laravel-nova-mastery/episodes/1 - Nova course
+
 ## Javascript
 * https://www.vuemastery.com/
 * https://www.udemy.com/vuejs-2-the-complete-guide
