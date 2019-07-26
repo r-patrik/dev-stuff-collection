@@ -9,7 +9,7 @@
 - [Courses](#courses)
 
 
-# Tools and Pacakages
+# Tools and pacakages
 ### PHP
 * https://twine.phlak.net/docs/what-is-twine/ - Twine is a simple string manipulation library with an expressive, fluent syntax.
 * https://fractal.thephpleague.com/ - Fractal provides a presentation and transformation layer for complex data output
