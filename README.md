@@ -1,9 +1,13 @@
 # Dev stuff collection
 
-- [Tools & packages](./#tools-&-pacakages)
+- [Tools & packages](#tools-and-pacakages)
+- [Articles](#articles)
+- [Videos](#videos)
+- [Tutorials](#tutorials)
+- [Courses](#courses)
 
 
-#Tools & Pacakages
+# Tools and Pacakages
 ### PHP
 * https://twine.phlak.net/docs/what-is-twine/ - Twine is a simple string manipulation library with an expressive, fluent syntax.
 * https://fractal.thephpleague.com/ - Fractal provides a presentation and transformation layer for complex data output
@@ -100,7 +104,7 @@
 ### Blogs, showcases etc.
 * https://tech.trivago.com/2017/12/19/how-trivago-reduced-memcached-memory-usage-by-50/ - How trivago Reduced Memcached Memory Usage by 50%
 
-#Videos
+# Videos
 
 ### Programming theoury
 * http://verraes.net/2014/09/decoupling-model-framework/ - Presentation on Domain-Driven Design, CRUD, Task-based UI's, Commands, Events, ...
@@ -141,7 +145,7 @@
 * https://gitconnected.com/learn/golang
 * https://gophercises.com/
 
-#Courses
+# Courses
 ### PHP
 
 #### Laravel
