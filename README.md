@@ -9,6 +9,14 @@
 * https://github.com/spatie/data-transfer-object - Data transfer objects
 * https://github.com/spatie/phpunit-snapshot-assertions?source=post_page---------------------------
 
+### Testing
+* https://github.com/kahlan/kahlan - Kahlan is a full-featured Unit & BDD test framework a la RSpec/JSpec
+* http://atoum.org/ - atoum is a simple, modern and intuitive unit testing framework for PHP
+* http://peridot-php.github.io/ - highly extensible, highly enjoyable, BDD testing framework for PHP
+* http://datasift.github.io/storyplayer/ - Bring your stories to life using simple and powerful test automation.
+* http://www.phpspec.net/en/latest/manual/introduction.html - Phpspec is a tool which can help you write clean and working PHP code using behaviour driven development 
+* http://behat.org/en/latest/ - A php framework for autotesting your business expectations.
+
 
 ### Laravel
 * https://github.com/spatie/laravel-responsecache - Speed up an app by caching the entire response
@@ -46,11 +54,13 @@
 
 ## GO
 * https://github.com/smartystreets/goconvey - GoConvey is awesome Go testing
+* https://golang.github.io/dep/ - Dependency management for Go
 
 # Testing
 
 # Articles
-# Programmnig theory
+
+## Programmnig theory
 * https://symfony.com/doc/current/workflow/introduction.html - Workflow and state machines
 * https://github.com/kamranahmedse/design-patterns-for-humans - Design patterns for humans
 
@@ -58,6 +68,7 @@
 * https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html - The Clean Architecture
 * https://bootsity.com/php/understanding-the-solid-principles-of-software-engineering - Understanding the SOLID principles of software engineering
 * https://lorisleiva.com/conciliating-laravel-and-ddd/ - Conciliating Laravel and DDD
+* https://oliverlundquist.com/2018/03/20/how-to-setup-ddd-in-laravel-app.html - How to setup Domain Driven Design (DDD) in a Laravel app.
 
 ## System designing
 * https://github.com/donnemartin/system-design-primer - Learn how to design large-scale systems. 
@@ -65,13 +76,28 @@
 ## Event sourcing
 * https://kickstarter.engineering/event-sourcing-made-simple-4a2625113224 - Event Sourcing made Simple
 
+## GO
+* https://dave.cheney.net/practical-go/presentations/qcon-china.html - Practical Go
+
 # Videos
 ## Programming theoury
 * http://verraes.net/2014/09/decoupling-model-framework/ - Presentation on Domain-Driven Design, CRUD, Task-based UI's, Commands, Events, ...
 
+## PHP
+* https://www.youtube.com/channel/UCOoctvApya3GP9EdCVsq85Q - Emarsys meetups
+
+## Flutter
+* https://www.youtube.com/channel/UCwXdFgeE9KYzlDdR7TG9cMw - Official flutter channel
+
+## Database
+
+#### ElasticSearch
+* https://www.youtube.com/watch?v=7FLXjgB0PQI&list=WL&index=68 - Getting Down and Dirty with ElasticSearch by Clinton Gormley
+
 # Tutorials
 ## GO
 * https://gitconnected.com/learn/golang
+* https://gophercises.com/
 
 # Courses
 ## Javascript
