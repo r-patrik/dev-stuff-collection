@@ -1,5 +1,7 @@
 # Dev stuff collection
 
+[Tools & packages](## Tools & Pacakages)
+
 ## Tools & Pacakages
 ### PHP
 * https://twine.phlak.net/docs/what-is-twine/ - Twine is a simple string manipulation library with an expressive, fluent syntax.
