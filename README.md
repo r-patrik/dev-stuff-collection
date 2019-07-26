@@ -56,8 +56,6 @@
 * https://github.com/smartystreets/goconvey - GoConvey is awesome Go testing
 * https://golang.github.io/dep/ - Dependency management for Go
 
-# Testing
-
 # Articles
 
 ## Programmnig theory
