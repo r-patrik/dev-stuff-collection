@@ -1,2 +1,9 @@
-# dev-stuff-collection
-A collection of useful stuffs in connection with dev
+# Dev stuff collection
+
+# Programmnig theory
+
+
+# Tools & Pacakages
+
+
+# Testing
