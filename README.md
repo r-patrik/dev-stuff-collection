@@ -55,6 +55,8 @@
 * https://github.com/zerodahero/laravel-workflow - Use the Symfony Workflow component in Laravel
 * https://github.com/beyondcode/laravel-dump-server - Dump server
 * https://nova.laravel.com/ - Official admin panel
+* https://github.com/rinvex/laravel-subscriptions - Rinvex Subscriptions is a flexible plans and subscription management system for Laravel,
+* https://github.com/sebdesign/laravel-state-machine - State machine implementation to Laravel
 
 ### Javascript
 
