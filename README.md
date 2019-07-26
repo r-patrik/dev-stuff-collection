@@ -117,6 +117,7 @@
 
 ### Programming theoury
 * http://verraes.net/2014/09/decoupling-model-framework/ - Presentation on Domain-Driven Design, CRUD, Task-based UI's, Commands, Events, ...
+* https://www.youtube.com/watch?v=K31POPssKyE - Are you a SOLID developer?
 
 ### Testing
 * https://www.youtube.com/watch?v=Q9wSvlmywhI - Jon Acker - TDD is dead, long live TDD - Laracon EU 2016
