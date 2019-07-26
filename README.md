@@ -78,11 +78,15 @@
 * https://dave.cheney.net/practical-go/presentations/qcon-china.html - Practical Go
 
 # Videos
+
 ## Programming theoury
 * http://verraes.net/2014/09/decoupling-model-framework/ - Presentation on Domain-Driven Design, CRUD, Task-based UI's, Commands, Events, ...
 
 ## PHP
 * https://www.youtube.com/channel/UCOoctvApya3GP9EdCVsq85Q - Emarsys meetups
+
+## Go
+* https://www.youtube.com/watch?v=EXrEd1-GZR0 - Practical Go: Real World Advice For Writing Maintainable Go Programs
 
 ## Flutter
 * https://www.youtube.com/channel/UCwXdFgeE9KYzlDdR7TG9cMw - Official flutter channel
@@ -91,6 +95,17 @@
 
 #### ElasticSearch
 * https://www.youtube.com/watch?v=7FLXjgB0PQI&list=WL&index=68 - Getting Down and Dirty with ElasticSearch by Clinton Gormley
+
+## Machine learning & Data analysis
+* https://www.youtube.com/watch?v=5DknTFbcGVM&list=PLHnktN89TYlZUvr8W0QUefYUVWmwTyxvT&index=1 - Effective TensorFlow for Non-Experts (Google I/O '17)
+* https://www.youtube.com/watch?v=r0Ogt-q956I - Deep Learning: A Crash Course
+* https://www.youtube.com/watch?v=tjsHSIG8I08 - Get started with TensorFlow's High-Level APIs (Google I/O '18)
+* https://www.youtube.com/watch?v=nLw1RNvfElg&list=PLQVvvaa0QuDfSfqQuee6K8opKtZsh7sA9 - Data Analysis w/ Python 3 and Pandas
+* https://www.youtube.com/watch?v=MyYPpmVPed0 - Machine Learning: Zero to Hero
+
+## Others
+* https://www.youtube.com/channel/UCtxCXg-UvSnTKPOzLH4wJaQ - Tech talks youtube channel
+* https://www.youtube.com/channel/UCn1XnDWhsLS5URXTi5wtFTA - Tech dummies youtube channel
 
 # Tutorials
 ## GO
