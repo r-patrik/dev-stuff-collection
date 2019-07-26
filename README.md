@@ -7,6 +7,7 @@
 * http://image.intervention.io - PHP Image Manipulation
 * https://github.com/rexlabsio/enum-php - Enum implementation for php
 * https://github.com/spatie/data-transfer-object - Data transfer objects
+* https://github.com/spatie/phpunit-snapshot-assertions?source=post_page---------------------------
 
 
 ### Laravel
@@ -33,6 +34,8 @@
 * https://charts.erik.cat/ - Charts
 * https://backpackforlaravel.com/ - Admin panel
 * https://github.com/spatie/laravel-honeypot - Honeypot
+* https://github.com/zerodahero/laravel-workflow - Use the Symfony Workflow component in Laravel
+* https://github.com/beyondcode/laravel-dump-server - Dump server
 
 ## Real time services
 * https://pusher.com - Powering realtime experiencis in all your apps
@@ -48,8 +51,7 @@
 
 # Articles
 # Programmnig theory
-
-## Design Patterns
+* https://symfony.com/doc/current/workflow/introduction.html - Workflow and state machines
 * https://github.com/kamranahmedse/design-patterns-for-humans - Design patterns for humans
 
 ## DDD
@@ -72,5 +74,9 @@
 * https://gitconnected.com/learn/golang
 
 # Courses
+## Javascript
+* https://www.vuemastery.com/
+* https://www.udemy.com/vuejs-2-the-complete-guide
+
 ## Machine learning & data science
 * https://www.kaggle.com/learn/overview - Faster Data Science Education
