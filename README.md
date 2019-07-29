@@ -86,6 +86,7 @@
 * https://studio.restlet.com - Restlet studio
 * https://editor.swagger.io/ - Swagger editor
 * https://github.com/mlabouardy/swaggymnia - Generate Swagger Documentation from Insomnia REST Client
+* https://github.com/nlohmann/swagger_to_uml - Convert OpenAPI specifications (a.k.a. Swagger) to PlantUML diagrams
 
 #### API client apps
 - https://insomnia.rest/ - Powerful HTTP and GraphQL tool belt
