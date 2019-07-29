@@ -85,6 +85,7 @@
 #### API design tools
 * https://studio.restlet.com - Restlet studio
 * https://editor.swagger.io/ - Swagger editor
+* https://github.com/mlabouardy/swaggymnia - Generate Swagger Documentation from Insomnia REST Client
 
 #### API client apps
 - https://insomnia.rest/ - Powerful HTTP and GraphQL tool belt
