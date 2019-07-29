@@ -81,8 +81,14 @@
 * https://golang.github.io/dep/ - Dependency management for Go
 
 ### API Design tools
+
+#### API design tools
 * https://studio.restlet.com - Restlet studio
 * https://editor.swagger.io/ - Swagger editor
+
+#### API client apps
+- https://insomnia.rest/ - Powerful HTTP and GraphQL tool belt
+- https://httpie.org/ - A command line HTTP client with an intuitive UI
 
 # Articles
 
